@@ -1,7 +1,7 @@
 # acropolis-task
 
 #Login Page
-[!alt text](https://github.com/harshkiprofile/acropolis-task/blob/master/login.PNG)
+[!Alt text](https://github.com/harshkiprofile/acropolis-task/blob/master/login.PNG)
 
 #New user Registration  
 [!alt text](https://github.com/harshkiprofile/acropolis-task/blob/master/signup.PNG)
