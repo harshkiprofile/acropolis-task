@@ -60,4 +60,4 @@ jobs:
         with:
           app-name: 'todouser'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_ACABBD069DEE46FFB0FED0F0C07C096C }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_2ADD5EAB44D142128164F345A4F2EB33 }}
